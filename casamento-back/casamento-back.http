@@ -1,0 +1,6 @@
+@casamento_back_HostAddress = http://localhost:5229
+
+GET {{casamento_back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
